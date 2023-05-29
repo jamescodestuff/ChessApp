@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Set the background color to #eeeed2 -->
+    <solid android:color="#eeeed2" />
+
+    <!-- Set the stroke whiteb.xml with red color -->
+    <stroke
+        android:width="5dp"
+        android:color="#FF0000" />
+</shape>

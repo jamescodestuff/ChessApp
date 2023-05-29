@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chess</string>
+    <string name="input_game_title">Input Game Title</string>
+    <string name="textview">TextView</string>
+    <string name="save_game">Save Game</string>
+    <string name="discard_game">Discard Game</string>
+</resources>
