@@ -2,9 +2,6 @@ package com.example.chess;
 
 /**
  *  contains an abstract class ChessPiece which allows other classes to extend upon it and implment methods respecting to it's each indivisual chess piece
- * @author Joey Zheng jz813, Junfeng Wang jw1397
- * @since 2023-03-18
- * @version 1.0.0
  */
 public class chessPieces{
     /**
